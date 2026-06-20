@@ -1,0 +1,40 @@
+20:39:01.170 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+20:39:15.703 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest
+20:41:11.052 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+20:41:11.483 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on My Account link ***
+20:41:13.760 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register link ***
+20:41:13.772 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing customer details ***
+20:41:18.530 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message ***
+20:41:18.699 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+20:41:30.123 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest
+20:46:19.404 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest
+20:46:25.272 [main] INFO  testCases.TC002_LoginTest - ****Finished TC002_LoginTest***
+23:23:02.603 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+23:23:03.820 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on My Account link ***
+23:23:06.095 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register link ***
+23:23:06.156 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing customer details ***
+23:23:14.147 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message ***
+23:23:14.338 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+23:23:25.038 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest
+23:23:29.659 [main] INFO  testCases.TC002_LoginTest - ****Finished TC002_LoginTest***
+01:01:33.347 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+01:01:34.797 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on My Account link ***
+01:01:36.960 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register link ***
+01:01:36.977 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing customer details ***
+01:01:43.800 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message ***
+01:01:43.979 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+01:01:52.668 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest
+01:01:57.390 [main] INFO  testCases.TC002_LoginTest - ****Finished TC002_LoginTest***
+01:29:55.194 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+01:29:56.096 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on My Account link ***
+01:29:57.865 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register link ***
+01:29:57.900 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing customer details ***
+01:30:13.751 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message ***
+01:47:27.539 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ***
+01:47:28.292 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on My Account link ***
+01:47:30.336 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register link ***
+01:47:30.356 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing customer details ***
+01:47:36.461 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message ***
+01:47:36.823 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+01:47:46.081 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest
+01:47:51.082 [main] INFO  testCases.TC002_LoginTest - ****Finished TC002_LoginTest***
